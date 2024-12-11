@@ -1,6 +1,5 @@
 name: Docker Images CI
 
-
 on:
   push:
     branches: [ main ]
